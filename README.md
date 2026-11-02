@@ -1,6 +1,7 @@
 ## olà bem vindo ao meu mundo !!! Eu sou matheusf160 !
 
-- 🔭  sou Formado Tecnico em Desenvolvimento de Sistemas
+- 🔭  sou Formado Tecnico em Desenvolvimento de Sistemas 
+- Estudando tecnólogo em análise e desenvolvimento de sistemas no instituto federal de Pernambuco 
 - 🌱 Estudando bacharelado na Brigham Young University !
 - 💬 contate-me no email : matheusfabricio160@gmail.com
 -->
